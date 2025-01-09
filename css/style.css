@@ -1,0 +1,182 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* SECTION 1 */
+
+section {
+  width: 100%;
+  padding: 120px 80px;
+}
+
+.banner {
+  background-image: url(../img/banner-topo.jpg);
+  background-position: center;
+  background-size: cover ;
+  width: 100%;
+  padding: 120px 80px;
+}
+
+.logo {
+  max-width: 250px;
+  color: #3c184e;
+  font-size: 35px;
+  margin-bottom: 5px;
+}
+
+.logo-img {
+width: 30px;
+margin-right: 5px;
+}
+
+.logo, p {
+  display: inline-block;
+}
+.p-2 {
+  font-size: 14px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0;
+}
+
+.banner-h1 {
+  max-width: 1024px;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 70px auto 0 auto;
+  background-color: #ffffffc4;
+  box-shadow: 0 8px 32px #1f26875e;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  color: #3c184e;
+  text-align: center;
+  font-weight: 800;
+  margin: 0 0 40px 0;
+}
+
+.banner-h1 p {
+  width: 200px;
+  padding: 10px 25px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: #3c184e;
+  font-size: 20px;
+}
+
+.banner-h1 img {
+  width: 20px;
+  margin-left: 8px;
+}
+
+/* SECTION 2 */
+
+h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px 0;
+}
+
+ul {
+  max-width: 800px;
+  margin: 0 auto 50px auto;
+  color: #3c184e;
+  text-align: center;
+}
+
+li {
+  font-size: 20px;
+  margin: 0 0 20px 0;
+}
+
+span {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.serviços-img {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.serviços-img img {
+  border-radius: 5px;
+  box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+/* SECTION 3 */
+.p-3 {
+  background-color: #3c184e;
+  padding: 120px 80px;
+  text-align: center;
+}
+
+.p-3 img {
+  width: 20px;
+  margin: 0 20px;
+}
+
+.p-3 p {
+  max-width: 800px;
+  margin: 0 auto 50px auto;
+  font-size: 40px;
+  color: #fff;
+}
+
+.c1 {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.c1 img {
+  width: 148px;
+  height: 148px;
+  margin: 0 15px;
+}
+
+iframe {
+  width: 800px;
+  height: 450px;
+}
+
+.iframe-container {
+  text-align: center;
+}
+
+.local {
+  text-align: center;
+}
+
+.local p {
+  font-size: 20px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px 0;
+}
+
+footer {
+  width: 100%;
+  padding: 10px 0;
+  background-color: #3c184e;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
+
